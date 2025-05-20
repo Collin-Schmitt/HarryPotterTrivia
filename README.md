@@ -63,6 +63,47 @@
 
 ---
 
+## 📸 Screenshots
+
+### 🧙‍♂️ Title & Instructions
+
+**Title Screen**  
+<img src="Screenshots/HP_title_screen.png" alt="Title Screen" width="300"/>
+
+**Instructions Screen**  
+<img src="Screenshots/HP_Instructions.png" alt="Instructions" width="300"/>
+
+---
+
+### ⚙️ Settings & In-App Purchases
+
+**Active / Inactive Book Selection**  
+<img src="Screenshots/HP_settings_Active_Inactive_books.png" alt="Settings - Active/Inactive" width="300"/>
+
+**Locked Books**  
+<img src="Screenshots/Setting_screen_pt2_locked_books.png" alt="Settings - Locked Books" width="300"/>
+
+**Purchase Book Screen**  
+<img src="Screenshots/Purchase_book_screen.png" alt="Purchase Book" width="300"/>
+
+---
+
+### 🎮 Gameplay
+
+**Initial Gameplay Screen**  
+<img src="Screenshots/Initial_gameplay_screen.png" alt="Gameplay" width="300"/>
+
+**Gameplay with Hints**  
+<img src="Screenshots/Gameplay_screen_with_hints.png" alt="Gameplay with Hints" width="300"/>
+
+**Wrong Answer Selected**  
+<img src="Screenshots/Gameplay_wrong_answer_selected.png" alt="Wrong Answer" width="300"/>
+
+**Correct Answer Celebration**  
+<img src="Screenshots/Correct_score_celebration_screen.png" alt="Correct Answer Celebration" width="300"/>
+
+---
+
 ## 🧩 JSON Format (Trivia Questions)
 Questions are stored locally in a trivia.json file, using this format:
 {
